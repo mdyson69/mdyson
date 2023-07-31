@@ -1,0 +1,6 @@
+#Ignore imqges Folder Due to File Size
+
+images/
+
+#Ignore DS_Store File
+.DS_Store
